@@ -1,0 +1,53 @@
+
+#contenedor {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif; 
+}
+
+#encabezado {
+    margin-top: 50px;
+    height: 80px;
+
+}
+
+#menu {
+
+    height: 40px;
+}
+
+#cuerpo {
+    font-weight: bold;
+    text-align: left;
+}
+
+section{
+    text-align: center;
+    border:2px solid #647DD6;
+    padding:10px 0px; 
+    background:#dddddd;
+    width:800px;
+    border-radius:25px;
+    text-align: center;
+}
+
+#pie {
+    text-align: right;
+    font-size: small;
+}
+
+root { 
+    display: block;
+}
+
+p.error{
+    color: #FF1010;
+}
+
+h1 {
+    text-align: center;
+    color: #4ED56D;
+}
